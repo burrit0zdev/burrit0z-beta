@@ -1,0 +1,7 @@
+Origin: ren7995 Beta
+Label: ren7995 Beta
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm
+Components: main
+Description: Beta repository for my tweaks
